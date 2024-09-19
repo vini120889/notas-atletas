@@ -26,21 +26,21 @@ O código é composto por:
 
 Para o array de atletas fornecido, o código gerará uma saída semelhante a esta:
 
-Atleta: Cesar Abascal 
-Notas Obtidas: 10, 9.34, 8.42, 10, 7.88 
-Média Válida: 9.25
+Atleta: Cesar Abascal<br> 
+Notas Obtidas: 10, 9.34, 8.42, 10, 7.88<br> 
+Média Válida: 9.253333333333332<br>
 
-Atleta: Fernando Puntel 
-Notas Obtidas: 8, 10, 10, 7, 9.33 
-Média Válida: 9.44
+Atleta: Fernando Puntel<br> 
+Notas Obtidas: 8, 10, 10, 7, 9.33<br> 
+Média Válida: 9.11<br>
 
-Atleta: Daiane Jelinsky 
-Notas Obtidas: 7, 10, 9.5, 9.5, 8 
-Média Válida: 9.00
+Atleta: Daiane Jelinsky<br> 
+Notas Obtidas: 7, 10, 9.5, 9.5, 8<br> 
+Média Válida: 9.00<br>
 
-Atleta: Bruno Castro 
-Notas Obtidas: 10, 10, 10, 9, 9.5 
-Média Válida: 9.83
+Atleta: Bruno Castro<br> 
+Notas Obtidas: 10, 10, 10, 9, 9.5<br> 
+Média Válida: 9.833333333333334<br>
 
 
 ## Como Executar
